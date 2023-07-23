@@ -1,0 +1,7 @@
+데이터.xlsx
+북센베스트셀러 3만종.xlsx
+설계.xlsx
+*.pyc
+__pycache__
+migrations
+alembic.ini
